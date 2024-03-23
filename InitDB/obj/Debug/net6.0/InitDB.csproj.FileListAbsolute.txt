@@ -1,0 +1,237 @@
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.csproj.AssemblyReference.cache
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfoInputs.cache
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfo.cs
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.csproj.CoreCompileInputs.cache
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\InitDB.exe
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\InitDB.deps.json
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\InitDB.runtimeconfig.json
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\InitDB.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\InitDB.pdb
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Azure.Core.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Azure.Identity.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Memory.Data.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Text.Json.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\DAL.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\DTO.dll
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\DAL.pdb
+D:\C#\winForm\Project\InitDB\bin\Debug\net6.0\DTO.pdb
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.csproj.CopyComplete
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.dll
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\refint\InitDB.dll
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.pdb
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\InitDB.genruntimeconfig.cache
+D:\C#\winForm\Project\InitDB\obj\Debug\net6.0\ref\InitDB.dll
+D:\winform\InitDB\bin\Debug\net6.0\InitDB.exe
+D:\winform\InitDB\bin\Debug\net6.0\InitDB.deps.json
+D:\winform\InitDB\bin\Debug\net6.0\InitDB.runtimeconfig.json
+D:\winform\InitDB\bin\Debug\net6.0\InitDB.dll
+D:\winform\InitDB\bin\Debug\net6.0\InitDB.pdb
+D:\winform\InitDB\bin\Debug\net6.0\Azure.Core.dll
+D:\winform\InitDB\bin\Debug\net6.0\Azure.Identity.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\winform\InitDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Memory.Data.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Text.Json.dll
+D:\winform\InitDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\winform\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\winform\InitDB\bin\Debug\net6.0\DAL.dll
+D:\winform\InitDB\bin\Debug\net6.0\DTO.dll
+D:\winform\InitDB\bin\Debug\net6.0\DAL.pdb
+D:\winform\InitDB\bin\Debug\net6.0\DTO.pdb
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.csproj.AssemblyReference.cache
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfoInputs.cache
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfo.cs
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.csproj.CoreCompileInputs.cache
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.csproj.CopyComplete
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.dll
+D:\winform\InitDB\obj\Debug\net6.0\refint\InitDB.dll
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.pdb
+D:\winform\InitDB\obj\Debug\net6.0\InitDB.genruntimeconfig.cache
+D:\winform\InitDB\obj\Debug\net6.0\ref\InitDB.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\InitDB.exe
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\InitDB.deps.json
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\InitDB.runtimeconfig.json
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\InitDB.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\InitDB.pdb
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Stenn.EntityConventions.Contacts.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Stenn.EntityFrameworkCore.EntityConventions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Stenn.EntityFrameworkCore.EntityConventions.Extensions.DependencyInjection.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Stenn.EntityFrameworkCore.EntityConventions.SqlServer.Extensions.DependencyInjection.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\Stenn.StaticMigrations.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\DAL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\bin\Debug\net6.0\DTO.pdb
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.csproj.AssemblyReference.cache
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfoInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.AssemblyInfo.cs
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.csproj.CoreCompileInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.csproj.CopyComplete
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\refint\InitDB.dll
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.pdb
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\InitDB.genruntimeconfig.cache
+C:\Users\PHI LONG\Desktop\winform-main\InitDB\obj\Debug\net6.0\ref\InitDB.dll

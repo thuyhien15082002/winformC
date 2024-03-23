@@ -1,0 +1,77 @@
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\BLL.dll
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\DAL.dll
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\DTO.dll
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\C#\winForm\Project\BLL\bin\Debug\net6.0\DTO.pdb
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.dll
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\C#\winForm\Project\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\winform\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\winform\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\winform\BLL\bin\Debug\net6.0\BLL.dll
+D:\winform\BLL\bin\Debug\net6.0\BLL.pdb
+D:\winform\BLL\bin\Debug\net6.0\DAL.dll
+D:\winform\BLL\bin\Debug\net6.0\DTO.dll
+D:\winform\BLL\bin\Debug\net6.0\DAL.pdb
+D:\winform\BLL\bin\Debug\net6.0\DTO.pdb
+D:\winform\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\winform\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\winform\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\winform\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\winform\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\winform\BLL\obj\Debug\net6.0\BLL.dll
+D:\winform\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\winform\BLL\obj\Debug\net6.0\BLL.pdb
+D:\winform\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\winform\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\PHI LONG\Desktop\winform-main\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\C\winform-main\BLL\obj\Debug\net6.0\ref\BLL.dll

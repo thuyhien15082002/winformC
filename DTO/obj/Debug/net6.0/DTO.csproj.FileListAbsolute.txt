@@ -1,0 +1,56 @@
+D:\C#\winForm\Project\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\C#\winForm\Project\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+D:\C#\winForm\Project\DTO\bin\Debug\net6.0\DTO.dll
+D:\C#\winForm\Project\DTO\bin\Debug\net6.0\DTO.pdb
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.dll
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.pdb
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+D:\C#\winForm\Project\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\winform\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\winform\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+D:\winform\DTO\bin\Debug\net6.0\DTO.dll
+D:\winform\DTO\bin\Debug\net6.0\DTO.pdb
+D:\winform\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\winform\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\winform\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\winform\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\winform\DTO\obj\Debug\net6.0\DTO.dll
+D:\winform\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\winform\DTO\obj\Debug\net6.0\DTO.pdb
+D:\winform\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+D:\winform\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\PHI LONG\Desktop\winform-main\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+C:\Users\PHI LONG\Desktop\winform-main\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+C:\Users\PHI LONG\Desktop\winform-main\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DTO\obj\Debug\net6.0\ref\DTO.dll

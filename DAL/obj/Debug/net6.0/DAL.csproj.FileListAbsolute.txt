@@ -1,0 +1,69 @@
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DAL.dll
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DAL.pdb
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DTO.dll
+D:\C#\winForm\Project\DAL\bin\Debug\net6.0\DTO.pdb
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.dll
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.pdb
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\C#\winForm\Project\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\winform\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\winform\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\winform\DAL\bin\Debug\net6.0\DAL.dll
+D:\winform\DAL\bin\Debug\net6.0\DAL.pdb
+D:\winform\DAL\bin\Debug\net6.0\DTO.dll
+D:\winform\DAL\bin\Debug\net6.0\DTO.pdb
+D:\winform\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\winform\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\winform\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\winform\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\winform\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\winform\DAL\obj\Debug\net6.0\DAL.dll
+D:\winform\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\winform\DAL\obj\Debug\net6.0\DAL.pdb
+D:\winform\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\winform\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\PHI LONG\Desktop\winform-main\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\PHI LONG\Desktop\winform-main\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\C\winform-main\DAL\obj\Debug\net6.0\ref\DAL.dll
